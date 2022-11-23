@@ -1,2 +1,2 @@
 # expanding-cards
-Expanding Cards Javascript Project 
+Expanding Cards Javascript Project - Starter 
